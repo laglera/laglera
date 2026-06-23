@@ -1,11 +1,7 @@
 <h1 align="center">¡Hola! Soy Alejandro 👋</h1>
 <h3 align="center">Desarrollador en transición hacia Big Data & AI 🚀</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Big+Data+%26+AI+Enthusiast;Python+%7C+SQL+%7C+ETL+Pipelines;Construyendo+mi+portfolio+de+datos;Open+to+work+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
 
 👨‍💻 Sobre mí
-
 
 🎓 Graduado en Desarrollo de Aplicaciones Web (DAW)
 🔍 Actualmente en búsqueda activa de oportunidades en Big Data e Inteligencia Artificial
@@ -35,18 +31,6 @@ Datos & AI
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
-🚧 Proyecto actual
-
-📊 Clima y Energía España — pipeline de datos que combina la API de Open-Meteo (datos meteorológicos) con la API ESIOS de Red Eléctrica de España (demanda eléctrica), almacenando los datos en PostgreSQL (Docker) y visualizándolos en un dashboard con Streamlit.
-
-
-🔗 Ver repositorio
-
-
-
-Este proyecto forma parte de un roadmap personal de 10 semanas para construir un portfolio sólido orientado a roles de Big Data y AI: pipeline de datos → proyecto de Machine Learning con API desplegada → proyecto diferenciador (PySpark / NLP avanzado) → fase de pulido y aplicación a ofertas.
-
-
 📈 Estadísticas de GitHub
 
 <p align="center">
@@ -59,11 +43,8 @@ Este proyecto forma parte de un roadmap personal de 10 semanas para construir un
 📫 Contacto
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/TU-USUARIO" target="_blank">
+  <a href="https://www.linkedin.com/in/alejandro-laglera-ferrando-a16446348/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:tu-email@ejemplo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
