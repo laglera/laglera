@@ -6,7 +6,6 @@
 - 🎓 Graduado en **Desarrollo de Aplicaciones Web (DAW)**, actualmente en búsqueda activa de oportunidades en **Big Data e Inteligencia Artificial**
 - 🧠 Combino una base sólida en **desarrollo web** con un movimiento decidido hacia el **análisis de datos y machine learning**
 - 💼 Experiencia profesional en desarrollo (**Arya Consulting**) y sistemas/soporte IT (**Pentínfor**)
-- 📍 Basado en España
 
 ### 🛠️ Stack tecnológico
 
